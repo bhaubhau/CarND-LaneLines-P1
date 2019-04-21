@@ -46,4 +46,4 @@ To get the outputs, please run the P1.ipynb in the workspace, and check the outp
 ### 3. Suggest possible improvements to your pipeline
 
 1. A possible improvement would be to add logic to handle curves
-2. Logic for extrapolation can be improved by using advanced python syntax and functions provided by the libraries
+2. Logic for extrapolation and performance can be improved by using advanced python syntax and functions provided by the libraries
